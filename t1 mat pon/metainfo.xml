@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="ACBF05D0-800C-4F24-9E6B-C0C782331C4C" version="0">
+	<info>
+		<title>Т1. Математические понятия</title>
+		<description/>
+	</info>
+	<files index="id43" thumbnail="id39" totalSize="2742708">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/fonts/fnt4.woff</file>
+		<file id="id8">data/fonts/fnt5.woff</file>
+		<file id="id9">data/fonts/fnt6.woff</file>
+		<file id="id10">data/fonts/fnt7.woff</file>
+		<file id="id11">data/fonts/fnt8.woff</file>
+		<file id="id12">data/html5-unsupported.html</file>
+		<file id="id13">data/html5.png</file>
+		<file id="id14">data/images/img-08dc7b792ab985107ff6e7afba5a106d8579cb4f.jpg</file>
+		<file id="id15">data/images/img-12c58e5a5b21652bb9d242c7b1e81723df08745b.bmp</file>
+		<file id="id16">data/images/img-19fefa1cc2d6dadbae27c2ffaab0b5694cfb35d1.bmp</file>
+		<file id="id17">data/images/img-254af0a12c273515bf34537ea33d91a2ffd071fd.jpg</file>
+		<file id="id18">data/images/img-3f6a76d690668fa2d6f2dcddb0f068c247e37073.png</file>
+		<file id="id19">data/images/img-47c5457a01f21b953ed05a2526250abaf3a1bdab.jpg</file>
+		<file id="id20">data/images/img-482538d47ae04fff4f2e4d1cc9fa8df8914b979d.jpg</file>
+		<file id="id21">data/images/img-59e93c3f29a6df3d5f278041d51ad0ed6d185639.bmp</file>
+		<file id="id22">data/images/img-5b2883d83d605e946de4068dfea0e3cdd79fcb10.jpg</file>
+		<file id="id23">data/images/img-5d67befcaa7d263327c12c4d8db7a075ef26b496.png</file>
+		<file id="id24">data/images/img-62673feecce937145469b8bc54fc52e8109e77e4.jpg</file>
+		<file id="id25">data/images/img-64fb6bcdb1642a17427698157458d8eb45903c7d.bmp</file>
+		<file id="id26">data/images/img-72afd0ba36660fe5497447ce0ff6eb4db7f0986b.jpg</file>
+		<file id="id27">data/images/img-76a1341cff17e6936a935a672d336336548062ac.jpg</file>
+		<file id="id28">data/images/img-885962d11c276eeef75c7554b200bdbd382c7f77.png</file>
+		<file id="id29">data/images/img-8d2262137052ce358482f15d52984ff028224f04.png</file>
+		<file id="id30">data/images/img-93f02e2942e1cad892c1069fa987bd2879696731.jpg</file>
+		<file id="id31">data/images/img-acbb998db01581242a48ca0d20a7ef1403efdcc1.bmp</file>
+		<file id="id32">data/images/img-c3dcf2b6c366eb5f150fd05d0d0af111da9fbb02.jpg</file>
+		<file id="id33">data/images/img-dc847df237d463a00f2a2f4bbdfb6f826c90db92.bmp</file>
+		<file id="id34">data/images/img-e100decef897b2d2613fbc80716ccb2f582df68e.bmp</file>
+		<file id="id35">data/images/img-f69d1f01aa3724a84f4fdf963474ccab98cde43b.jpg</file>
+		<file id="id36">data/images/img-f807b49329d28f9a101b95135fa16be282a1b6cb.jpg</file>
+		<file id="id37">data/ismplayer/app_store2x.png</file>
+		<file id="id38">data/ismplayer/play.svg</file>
+		<file id="id39">data/ismplayer/preview.png</file>
+		<file id="id40">data/ismplayer/style.css</file>
+		<file id="id41">data/ismplayer/style_mini.css</file>
+		<file id="id42">data/player.js</file>
+		<file id="id43">index.html</file>
+		<file id="id44">ismplayer.html</file>
+		<file id="id45">preview.png</file>
+	</files>
+</presentation>
+
